@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "blume dev",
-    "build": "blume build",
+    "build": "blume build && node scripts/preserve-redirect-fragments.mjs",
     "doctor": "blume doctor",
     "validate": "blume validate --strict",
     "translations:check": "blume translate --check"

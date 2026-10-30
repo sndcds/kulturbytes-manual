@@ -1,64 +1,100 @@
 {
   "files": {
-    "docs/dashboard.mdx": {
-      "da": "41959b7c03e05626",
-      "de": "41959b7c03e05626"
+    "docs/discover/index.mdx": {
+      "da": "c815b83914f9bebd",
+      "de": "c815b83914f9bebd"
     },
-    "docs/event-edit.mdx": {
-      "da": "036200d498660185",
-      "de": "036200d498660185"
+    "docs/discover/meta.ts": {
+      "da": "6591a3f4025346d0",
+      "de": "6591a3f4025346d0"
     },
-    "docs/events.mdx": {
-      "da": "38a3becae06ac2e7",
-      "de": "38a3becae06ac2e7"
+    "docs/discover/places.mdx": {
+      "da": "3e8321048af068e5",
+      "de": "3e8321048af068e5"
     },
-    "docs/image-best-practice.mdx": {
-      "da": "519c00906b5581f4",
-      "de": "519c00906b5581f4"
+    "docs/discover/search.mdx": {
+      "da": "ddd2b89dd4a70521",
+      "de": "ddd2b89dd4a70521"
     },
-    "docs/images.mdx": {
-      "da": "23fc2d4b2c96182d",
-      "de": "23fc2d4b2c96182d"
+    "docs/discover/tips.mdx": {
+      "da": "47d00e2c9463ca28",
+      "de": "47d00e2c9463ca28"
     },
     "docs/index.mdx": {
-      "da": "f070b717fa2ca50b",
-      "de": "f070b717fa2ca50b"
+      "da": "602d48f27c7bc4af",
+      "de": "602d48f27c7bc4af"
     },
-    "docs/logos.mdx": {
-      "da": "2e4075c5fd0f01f4",
-      "de": "2e4075c5fd0f01f4"
+    "docs/manage/dashboard.mdx": {
+      "da": "1d6cb072d51f6722",
+      "de": "1d6cb072d51f6722"
     },
-    "docs/maps.mdx": {
-      "da": "88f25712df7fd8fc",
-      "de": "88f25712df7fd8fc"
+    "docs/manage/event-edit.mdx": {
+      "da": "f063032bceecaa8d",
+      "de": "f063032bceecaa8d"
     },
-    "docs/organization-edit.mdx": {
-      "da": "6b489053becc8523",
-      "de": "6b489053becc8523"
+    "docs/manage/events.mdx": {
+      "da": "53b1babde4bfa105",
+      "de": "53b1babde4bfa105"
     },
-    "docs/organization.mdx": {
-      "da": "96fbe54423fd1c64",
-      "de": "96fbe54423fd1c64"
+    "docs/manage/image-best-practice.mdx": {
+      "da": "7b6ab5e3af08550e",
+      "de": "7b6ab5e3af08550e"
     },
-    "docs/overview.mdx": {
-      "da": "8ee2381363bc7281",
-      "de": "8ee2381363bc7281"
+    "docs/manage/images.mdx": {
+      "da": "ebc2f2fe5d5a7c57",
+      "de": "ebc2f2fe5d5a7c57"
     },
-    "docs/register.mdx": {
-      "da": "ab5029c99183984e",
-      "de": "ab5029c99183984e"
+    "docs/manage/index.mdx": {
+      "da": "78e58e3d5143fa66",
+      "de": "78e58e3d5143fa66"
     },
-    "docs/space-edit.mdx": {
-      "da": "80c59e70ebf2ac2d",
-      "de": "80c59e70ebf2ac2d"
+    "docs/manage/logos.mdx": {
+      "da": "76c9646ca4fb6877",
+      "de": "76c9646ca4fb6877"
     },
-    "docs/venue-and-space.mdx": {
+    "docs/manage/maps.mdx": {
+      "da": "9947b2c7f755e68b",
+      "de": "9947b2c7f755e68b"
+    },
+    "docs/manage/meta.ts": {
+      "da": "1865797fd93db753",
+      "de": "1865797fd93db753"
+    },
+    "docs/manage/organization-edit.mdx": {
+      "da": "4c59b514fb2854ff",
+      "de": "4c59b514fb2854ff"
+    },
+    "docs/manage/organization.mdx": {
+      "da": "11c224bb0d291ce4",
+      "de": "11c224bb0d291ce4"
+    },
+    "docs/manage/overview.mdx": {
+      "da": "d9f1d6e654c0b795",
+      "de": "d9f1d6e654c0b795"
+    },
+    "docs/manage/portal.mdx": {
+      "da": "028de8db638685a0",
+      "de": "028de8db638685a0"
+    },
+    "docs/manage/register.mdx": {
+      "da": "c1dcfee7ee557b1b",
+      "de": "c1dcfee7ee557b1b"
+    },
+    "docs/manage/space-edit.mdx": {
+      "da": "3bafa8575e0e7202",
+      "de": "3bafa8575e0e7202"
+    },
+    "docs/manage/team.mdx": {
+      "da": "4767467e2ca78555",
+      "de": "4767467e2ca78555"
+    },
+    "docs/manage/venue-and-space.mdx": {
       "da": "6fd6ab41363e7f5b",
       "de": "6fd6ab41363e7f5b"
     },
-    "docs/venue-edit.mdx": {
-      "da": "62eafe9735c18ed3",
-      "de": "62eafe9735c18ed3"
+    "docs/manage/venue-edit.mdx": {
+      "da": "53f94a1c0332b2ca",
+      "de": "53f94a1c0332b2ca"
     }
   },
   "version": 1
